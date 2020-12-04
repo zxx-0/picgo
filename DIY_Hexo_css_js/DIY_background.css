@@ -1,0 +1,33 @@
+/*设置页面头部，页脚 透明*/
+
+#page-header,
+#footer {
+	background: transparent;
+} 
+
+
+/*设置文章页头部透明*/
+#page-header.post-bg:before {
+    background-color: transparent;
+}
+
+/*Toc 目录的按钮向上调整*/
+#toggle-sidebar {
+  bottom: 80px
+}  
+
+/*图像下的隐藏Follw me横条*/
+#aside_content .card-info #card-info-btn {
+    display: none;
+}
+
+/*文章标题及信息居中*/
+#page-header.post-bg #post-info {
+  text-align: center;
+}
+
+
+
+
+
+
