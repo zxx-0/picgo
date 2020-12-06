@@ -6,15 +6,9 @@
 
 /*白天模式*/
 /*去除页面横幅图片*/
-#page-header {
-    background: transparent ! important;
+#page-header, #footer {
+    background: transparent!important;
 }
-/*去除文章横幅图片
-element.style {
-    background-image: none;
-}*/
-
-/*黑夜模式*/
 
 
 
