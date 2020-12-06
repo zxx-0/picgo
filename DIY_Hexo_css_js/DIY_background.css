@@ -11,6 +11,11 @@
 }
 
 
+#page-header.post-bg:before {
+    background: transparent;
+}
+
+
 
 
 
