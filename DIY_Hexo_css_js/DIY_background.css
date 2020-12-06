@@ -12,7 +12,6 @@
 #page-header.post-bg:before {
     background: transparent;
 }
-
 /*黑夜模式*/
 /*去除横幅前的蒙版*/
 [data-theme='dark'] #web_bg:before, [data-theme='dark'] #footer:before, [data-theme='dark'] #page-header:before {
