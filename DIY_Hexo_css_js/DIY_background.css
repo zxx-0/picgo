@@ -5,12 +5,11 @@
 
 
 /*白天模式*/
-/*去除页面横幅图片*/
+/*去除横幅图片。由于文章页面的横幅图片background-image在element.style里面，无法直接修改css，采用!important方式隐藏图片*/
 #page-header, #footer {
     background: transparent!important;
 }
-
-
+/*去除文章页面横幅图片前的蒙版*/
 #page-header.post-bg:before {
     background: transparent;
 }
