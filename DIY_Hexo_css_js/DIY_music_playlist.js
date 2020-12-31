@@ -32,28 +32,10 @@ const ap = new APlayer({
         cover: 'https://p2.music.126.net/6Lod8Ys5E6fiKZ9xrqCXug==/109951163100347037.jpg?param=130y130'  
         },
         {
-        name: '这一生关于你的风景',
-        artist: '隔壁老樊',
-        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YSEY63QXVLLB5EIUID7GYTZ3CPU',
-        cover: 'https://p1.music.126.net/72pkxsrTN_zUscdzMk5mMA==/109951164289743850.jpg?param=130y130'  
-        },
-        {
-        name: '多想在平庸的生活拥抱你',
-        artist: '隔壁老樊',
-        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YXM5XN4EMKOTZHL2B75HT3OUK6D',
-        cover: 'https://p2.music.126.net/gNbAlXamNjhR2j3aOukNhg==/109951164232796511.jpg?param=130y130'  
-        },
-        {
         name: '只是太爱你',
         artist: '丁芙妮',
         url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YS7UOEAJNAWZFA2ILFOZFKWFLR7',
         cover: 'https://p1.music.126.net/mKhOfpO72lu1vrXbXohX8A==/109951163988545723.jpg?param=130y130'  
-        },
-        {
-        name: '纸短情长',
-        artist: '烟把儿',
-        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YQPCHQ6FCLU7FDJHQLDKETRKTE4',
-        cover: 'https://p2.music.126.net/z-4w8sRPuz64zj4KLIWWUw==/109951163056517430.jpg?param=130y130'  
         },
         {
         name: '说好的幸福呢',
