@@ -2,6 +2,12 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
+        name: '借 (Live)',
+        artist: '毛不易',
+        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YXRNX726DXQHJHKGKGL3TUBPZAB',
+        cover: 'https://p1.music.126.net/yZN047VYz7selK4LCsi1Zg==/109951164681443868.jpg?param=130y130'
+        },
+        {
         name: 'Feel You',
         artist: '악의 꽃',
         url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YUIU767YGCJ7ZBLXHAB7HSLVEVO',
@@ -45,13 +51,5 @@ const ap = new APlayer({
         }
         
 
-            ]
+        ]
 });
-
-
-
-
-
-
-
-
