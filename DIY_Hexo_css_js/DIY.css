@@ -1,22 +1,21 @@
-/*图像下的隐藏Follw me横条*/
-#aside_content .card-info #card-info-btn {
-    display: none;
-}
-
 /*白天模式*/
-/*去除横幅图片。由于文章页面的横幅图片background-image在element.style里面，无法直接修改css，采用!important方式隐藏图片*/
-#page-header, #footer {
+/*去除页眉图片*/
+#page-header {
+    background: transparent;
+}
+/*去除页脚图片*/
+#footer {
+    background: transparent;
+}
+/*去除文章页面页眉图片。由于文章页面的页眉图片background-image在element.style里面，无法直接修改css，采用!important方式隐藏图片*/
+#page-header.post-bg {
     background: transparent!important;
 }
-/*去除文章页面横幅图片前的蒙版*/
-#page-header.post-bg:before {
-    background: transparent;
+
+#aside-content .card-info #card-info-btn {
+    display: none!important;
 }
-/*黑夜模式*/
-/*去除横幅前的蒙版*/
-[data-theme='dark'] #web_bg:before, [data-theme='dark'] #footer:before, [data-theme='dark'] #page-header:before {
-    background: transparent;
-}
+
 
 /*自定义字体*/
 @font-face{
@@ -24,11 +23,6 @@
   src:url('https://cdn.jsdelivr.net/gh/zxx-0/picgo/DIY_Hexo_css_js/ShouJinTi.ttf'); /* 字体文件路径 */
   font-display : swap;
 }
-
-
-
-
-
 
 
 
