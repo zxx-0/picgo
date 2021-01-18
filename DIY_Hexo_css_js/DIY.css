@@ -20,7 +20,7 @@
 /*自定义字体*/
 @font-face{
   font-family:'ShouJinTi' ;  /* 字体名自定义即可 */
-  src:url('https://cdn.jsdelivr.net/gh/zxx-0/picgo/DIY_Hexo_css_js/ShouJinTi.ttf'); /* 字体文件路径 */
+  src:url('https://cdn.jsdelivr.net/gh/zxx-0/picgo/DIY_Hexo_css_js/encrypted_nishilangmandekaishi.ttf'); /* 字体文件路径 */
   font-display : swap;
 }
 
