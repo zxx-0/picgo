@@ -2,6 +2,12 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
+        name: '需要人陪',
+        artist: '王力宏',
+        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YSFP7NSZRQFPZGZZNY5ETWIIB4X',
+        cover: 'https://p1.music.126.net/Y8_pmsNld7rFuN9HTv-wOQ==/3344714371752550.jpg?param=130y130'
+        },
+        {
         name: '借 (Live)',
         artist: '毛不易',
         url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YXRNX726DXQHJHKGKGL3TUBPZAB',
