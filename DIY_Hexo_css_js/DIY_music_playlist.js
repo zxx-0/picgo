@@ -2,6 +2,12 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
+        name: '错位时空',
+        artist: '肖恩Shaun-Gibson',
+        url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YTLFKPHW5BKW5CZKTBILUYCLJU7',
+        cover: 'https://i0.hdslb.com/bfs/face/e920e434eb78359eaef1742d649f567219158382.jpg@96w_96h_1c.webp'
+        },
+        {
         name: '需要人陪',
         artist: '王力宏',
         url: 'https://1368192376486968.cn-hangzhou.fc.aliyuncs.com/2016-08-15/proxy/oneindex-serverless-zxx/oneindex-serverless-zxx/download?id=01B7VK5YSFP7NSZRQFPZGZZNY5ETWIIB4X',
