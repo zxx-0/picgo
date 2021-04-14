@@ -2,6 +2,12 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
+        name: '赤岭',
+        artist: 'HITA',
+        url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E8%B5%A4%E5%B2%AD-HITA.m4a',
+        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000003SElah4eQ41c_2.jpg?max_age=2592000'
+        },
+        {
         name: '错位时空',
         artist: '肖恩Shaun-Gibson',
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E9%94%99%E4%BD%8D%E6%97%B6%E7%A9%BA-%E8%82%96%E6%81%A9Shaun-Gibson.m4s',
