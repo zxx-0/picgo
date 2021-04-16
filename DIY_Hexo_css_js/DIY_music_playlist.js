@@ -5,7 +5,7 @@ const ap = new APlayer({
         name: '赤岭',
         artist: 'HITA',
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E8%B5%A4%E5%B2%AD-HITA.m4a',
-        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000003SElah4eQ41c_2.jpg?max_age=2592000'
+        cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000003SElah4eQ41c_2.jpg'
         },
         {
         name: '错位时空',
