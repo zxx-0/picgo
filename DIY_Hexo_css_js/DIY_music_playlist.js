@@ -2,6 +2,12 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
+        name: '童话镇',
+        artist: '陈一发儿',
+        url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E7%AB%A5%E8%AF%9D%E9%95%87-%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF.mp3',
+        cover: 'https://onedrive.windandleaf.xyz/Website%20Data/Picture/Default.png'
+        },
+        {
         name: '赤岭',
         artist: 'HITA',
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E8%B5%A4%E5%B2%AD-HITA.m4a',
@@ -11,7 +17,7 @@ const ap = new APlayer({
         name: '错位时空',
         artist: '肖恩Shaun-Gibson',
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E9%94%99%E4%BD%8D%E6%97%B6%E7%A9%BA-%E8%82%96%E6%81%A9Shaun-Gibson.m4s',
-        cover: 'https://i0.hdslb.com/bfs/face/e920e434eb78359eaef1742d649f567219158382.jpg@96w_96h_1c.webp'
+        cover: 'https://onedrive.windandleaf.xyz/Website%20Data/Picture/Default.png'
         },
         {
         name: '需要人陪',
@@ -67,7 +73,5 @@ const ap = new APlayer({
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%91%A2.mp3',
         cover: 'https://cdnmusic.migu.cn/picture/2019/1031/0116/AS3f169c1d25854897bed1453a6aead54c.jpg'  
         }
-        
-
         ]
 });
