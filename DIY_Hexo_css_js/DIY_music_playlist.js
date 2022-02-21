@@ -2,9 +2,9 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [
         {
-        name: '童话镇',
-        artist: '陈一发儿',
-        url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E7%AB%A5%E8%AF%9D%E9%95%87-%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF.mp3',
+        name: '一路向北',
+        artist: '周杰伦',
+        url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97%20(%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%B4%E6%96%87%E5%AD%97%EF%BC%A4%E3%80%8B%E6%8F%92%E6%9B%B2).mp3',
         cover: 'https://onedrive.windandleaf.xyz/Website%20Data/Picture/Default.png'
         },
         {
@@ -72,6 +72,13 @@ const ap = new APlayer({
         artist: '周杰伦',
         url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E8%AF%B4%E5%A5%BD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%91%A2.mp3',
         cover: 'https://cdnmusic.migu.cn/picture/2019/1031/0116/AS3f169c1d25854897bed1453a6aead54c.jpg'  
+        },
+        {
+        name: '花海',
+        artist: '周杰伦',
+        url: 'https://onedrive.windandleaf.xyz/Website%20Data/Music/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E8%8A%B1%E6%B5%B7.mp3',
+        cover: 'https://onedrive.windandleaf.xyz/Website%20Data/Picture/Default.png'
         }
+
         ]
 });
